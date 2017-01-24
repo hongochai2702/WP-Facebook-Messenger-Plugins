@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHILI Facebook Messenger\n"
+"POT-Creation-Date: 2016-12-18 16:51+0700\n"
+"PO-Revision-Date: 2016-12-18 16:53+0700\n"
+"Last-Translator: \n"
+"Language-Team: CHILI Team <haihn@matbao.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: backend/index.php:41
+msgid "Documenttation"
+msgstr ""
+
+#: backend/index.php:42
+msgid "Support"
+msgstr ""
+
+#: backend/index.php:43
+msgid "..."
+msgstr ""
+
+#: backend/index.php:51
+msgid "Your Facebook Fan Page URL"
+msgstr ""
+
+#: backend/index.php:54
+msgid "Enter your fan page url. Example: https://www.facebook.com/chili.com.vn"
+msgstr ""
+
+#: backend/index.php:58
+msgid "Open Messenger ChatFacebook"
+msgstr ""
+
+#: backend/index.php:62 backend/index.php:81 backend/wiget.php:66
+msgid "Hide"
+msgstr ""
+
+#: backend/index.php:63
+msgid "Open"
+msgstr ""
+
+#: backend/index.php:64
+msgid "Only Mobile"
+msgstr ""
+
+#: backend/index.php:66
+msgid "Use this feature if you want user click to open Messenger app."
+msgstr ""
+
+#: backend/index.php:70
+msgid "Custom text for button"
+msgstr ""
+
+#: backend/index.php:73
+msgid "Custom text for the button on messager page."
+msgstr ""
+
+#: backend/index.php:78
+msgid "Display header cover"
+msgstr ""
+
+#: backend/index.php:82 backend/wiget.php:67
+msgid "Small header"
+msgstr ""
+
+#: backend/index.php:83 backend/wiget.php:68
+msgid "Large header"
+msgstr ""
+
+#: backend/index.php:85
+msgid "Select Facebook header cover type on Messenger popup"
+msgstr ""
+
+#: backend/index.php:90
+msgid "Messenger icon position"
+msgstr ""
+
+#: backend/index.php:93
+msgid "Right"
+msgstr ""
+
+#: backend/index.php:94
+msgid "Left"
+msgstr ""
+
+#: backend/index.php:99
+msgid "Icon type"
+msgstr ""
+
+#: backend/index.php:102
+msgid "Icon"
+msgstr ""
+
+#: backend/index.php:103
+msgid "Image"
+msgstr ""
+
+#: backend/index.php:108
+msgid "Upload icon or image"
+msgstr ""
+
+#: backend/index.php:111
+msgid "Upload"
+msgstr ""
+
+#: backend/index.php:112
+msgid "Use default icon"
+msgstr ""
+
+#: backend/index.php:113
+msgid ""
+"Upload your icon or image, please make sure you select correct type above"
+msgstr ""
+
+#: backend/index.php:117
+msgid "Main Color"
+msgstr ""
+
+#: backend/index.php:120
+msgid "Main color for Messenger icon and button"
+msgstr ""
+
+#: backend/index.php:125
+msgid "Open Messenger app button"
+msgstr ""
+
+#: backend/index.php:128
+msgid ""
+"Use this feature if you want user click to open Messenger app on smartphone "
+"(will display a button on Messenger popup)"
+msgstr ""
+
+#: backend/index.php:132
+msgid "Custom text for open Messenger app button"
+msgstr ""
+
+#: backend/index.php:135
+msgid "Custom text for button open Messenger app"
+msgstr ""
+
+#: backend/index.php:139
+msgid "Language"
+msgstr ""
+
+#: backend/index.php:313
+msgid "Display"
+msgstr ""
+
+#: backend/index.php:317 backend/index.php:324
+msgid "Display all pages but except"
+msgstr ""
+
+#: backend/index.php:318
+msgid "Display for pages..."
+msgstr ""
+
+#: backend/index.php:320
+msgid ""
+"Select type you want to display Messenger (If it don't display in "
+"WooCommerce pages, please make sure you selected 'Display all pages but "
+"except' option)"
+msgstr ""
+
+#: backend/index.php:342 backend/index.php:364
+msgid "Select where you want to display Facebook Messenger"
+msgstr ""
+
+#: backend/index.php:346
+msgid "Where you want to display"
+msgstr ""
+
+#: backend/wiget.php:17 backend/wiget.php:18
+msgid "Facebook Messenger"
+msgstr ""
+
+#: backend/wiget.php:51 backend/wiget.php:86
+msgid "Contact Messenger"
+msgstr ""
+
+#: frontend/shortcode.php:32
+msgid "Send message via your Messenger App"
+msgstr ""
+
+#: index.php:52
+msgid "Docs"
+msgstr ""
+
+#: index.php:53
+msgid "Wiki CHILI"
+msgstr ""
+
+#: index.php:67
+msgid "Settings"
+msgstr ""

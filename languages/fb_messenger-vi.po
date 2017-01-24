@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHILI Facebook Messenger\n"
+"POT-Creation-Date: 2016-12-26 20:31+0700\n"
+"PO-Revision-Date: 2016-12-26 20:31+0700\n"
+"Last-Translator: \n"
+"Language-Team: CHILI Team <haihn@matbao.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: backend/index.php:76 backend/index.php:77 backend/tmp/index-backend.php:11
+msgid "Facebook Messenger"
+msgstr "Facebook messenger"
+
+#: backend/views/fbmessenger-setting-options.php:4
+msgid "Documenttation"
+msgstr "Hướng dẫn sử dụng"
+
+#: backend/views/fbmessenger-setting-options.php:5
+msgid "Support"
+msgstr "Hỗ trợ CHILI"
+
+#: backend/views/fbmessenger-setting-options.php:6
+msgid "View more apps."
+msgstr "Xem thêm CHILI APPS"
+
+#: backend/views/fbmessenger-setting-options.php:9
+msgid "Facebook Messenger Settings"
+msgstr "Cài đặt Facebook Messenger"
+
+#: backend/views/fbmessenger-setting-options.php:13
+#: backend/views/fbmessenger-setting-options.php:56
+msgid "Chatbox Options"
+msgstr "Cấu hình khung chat"
+
+#: backend/views/fbmessenger-setting-options.php:14
+#: backend/views/fbmessenger-setting-options.php:20
+msgid "Messenger Options"
+msgstr "Cấu hình Messenger"
+
+#: backend/views/fbmessenger-setting-options.php:21
+msgid "Configuration page for the chatbox."
+msgstr "Cấu hình cho hộp chat."
+
+#: backend/views/fbmessenger-setting-options.php:24
+msgid "Open Messenger ChatFacebook"
+msgstr "Mở messenger ChatFacebook"
+
+#: backend/views/fbmessenger-setting-options.php:27
+#: backend/views/fbmessenger-setting-options.php:71
+msgid "Hide"
+msgstr "Ẩn tất cả"
+
+#: backend/views/fbmessenger-setting-options.php:28
+msgid "Open"
+msgstr "Mở"
+
+#: backend/views/fbmessenger-setting-options.php:29
+msgid "Only Mobile"
+msgstr "Chỉ hiển thị trên Mobile"
+
+#: backend/views/fbmessenger-setting-options.php:31
+msgid "Use this feature if you want user click to open Messenger app."
+msgstr ""
+"Sử dụng tính năng này nếu bạn muốn sử dụng nhấp chuột để mở ứng dụng "
+"Messenger."
+
+#: backend/views/fbmessenger-setting-options.php:35
+msgid "Custom text for button"
+msgstr "Tùy chỉnh tiêu đề Chat Button."
+
+#: backend/views/fbmessenger-setting-options.php:38
+msgid "Custom text for the button on messager page."
+msgstr "Văn bản tùy chỉnh cho nút trên trang messager."
+
+#: backend/views/fbmessenger-setting-options.php:42
+#: backend/views/fbmessenger-setting-options.php:80
+msgid "Messenger icon position"
+msgstr "Vị trí hiện thị"
+
+#: backend/views/fbmessenger-setting-options.php:45
+#: backend/views/fbmessenger-setting-options.php:84
+msgid "Left"
+msgstr "Trái"
+
+#: backend/views/fbmessenger-setting-options.php:46
+#: backend/views/fbmessenger-setting-options.php:83
+msgid "Right"
+msgstr "Phải"
+
+#: backend/views/fbmessenger-setting-options.php:48
+msgid "Position messenger button."
+msgstr "Vị trí nút messenger."
+
+#: backend/views/fbmessenger-setting-options.php:57
+msgid "Configuration page for the messenger."
+msgstr "Cấu hình cho nút Messenger."
+
+#: backend/views/fbmessenger-setting-options.php:60
+msgid "Your Facebook Fan Page URL"
+msgstr "URL Facebook Fan Page của bạn"
+
+#: backend/views/fbmessenger-setting-options.php:63
+msgid "Enter your fan page url. Example: https://www.facebook.com/chili.com.vn"
+msgstr ""
+"Điền vào đường dẫn Fanpage. Ví dụ: https://www.facebook.com/chili.com.vn"
+
+#: backend/views/fbmessenger-setting-options.php:68
+msgid "Display header cover"
+msgstr "Hiện thị Cover"
+
+#: backend/views/fbmessenger-setting-options.php:72
+msgid "Small header"
+msgstr "Sử dụng tiêu đề nhỏ"
+
+#: backend/views/fbmessenger-setting-options.php:73
+msgid "Large header"
+msgstr "Sử dụng tiêu đề lớn"
+
+#: backend/views/fbmessenger-setting-options.php:75
+msgid "Select Facebook header cover type on Messenger popup"
+msgstr "Chọn Facebook tiêu đề loại bìa trên Messenger cửa sổ bật lên"
+
+#: backend/views/fbmessenger-setting-options.php:89
+msgid "Icon type"
+msgstr "Loại icon"
+
+#: backend/views/fbmessenger-setting-options.php:92
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: backend/views/fbmessenger-setting-options.php:93
+msgid "Image"
+msgstr "Hình ảnh:"
+
+#: backend/views/fbmessenger-setting-options.php:98
+msgid "Upload icon or image"
+msgstr "Tải lên bộ biểu tượng"
+
+#: backend/views/fbmessenger-setting-options.php:101
+msgid "Upload"
+msgstr "Tải lên"
+
+#: backend/views/fbmessenger-setting-options.php:102
+msgid "Use default icon"
+msgstr "Sử dụng biểu tượng mặc định"
+
+#: backend/views/fbmessenger-setting-options.php:103
+msgid ""
+"Upload your icon or image, please make sure you select correct type above"
+msgstr ""
+"Tải lên biểu tượng hoặc hình ảnh của bạn, hãy chắc chắn rằng bạn chọn đúng "
+"loại trên"
+
+#: backend/views/fbmessenger-setting-options.php:107
+msgid "Main Color"
+msgstr "Màu chính"
+
+#: backend/views/fbmessenger-setting-options.php:110
+msgid "Main color for Messenger icon and button"
+msgstr "Màu chủ đạo cho biểu tượng và nút messenger"
+
+#: backend/views/fbmessenger-setting-options.php:115
+msgid "Open Messenger app button"
+msgstr "Mở nút ứng dụng Messenger"
+
+#: backend/views/fbmessenger-setting-options.php:118
+msgid ""
+"Use this feature if you want user click to open Messenger app on smartphone "
+"(will display a button on Messenger popup)"
+msgstr ""
+"Sử dụng tính năng này nếu bạn muốn sử dụng nhấp chuột để mở ứng dụng "
+"Messenger trên điện thoại thông minh (sẽ hiển thị một nút trên Messenger cửa "
+"sổ bật lên)"
+
+#: backend/views/fbmessenger-setting-options.php:122
+msgid "Custom text for open Messenger app button"
+msgstr "Văn bản tùy chỉnh cho mở nút ứng dụng Messenger"
+
+#: backend/views/fbmessenger-setting-options.php:125
+msgid "Custom text for button open Messenger app"
+msgstr "Tùy chỉnh tiêu đề Chat Button."
+
+#: backend/views/fbmessenger-setting-options.php:129
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: backend/views/fbmessenger-setting-options.php:303
+msgid "Display"
+msgstr "Hiện thị Cover"
+
+#: backend/views/fbmessenger-setting-options.php:307
+#: backend/views/fbmessenger-setting-options.php:314
+msgid "Display all pages but except"
+msgstr "Hiển thị tất cả các trang nhưng trừ"
+
+#: backend/views/fbmessenger-setting-options.php:308
+msgid "Display for pages..."
+msgstr "Hiển thị cho các trang ..."
+
+#: backend/views/fbmessenger-setting-options.php:310
+msgid ""
+"Select type you want to display Messenger (If it don't display in "
+"WooCommerce pages, please make sure you selected 'Display all pages but "
+"except' option)"
+msgstr ""
+"Chọn loại bạn muốn hiển thị Messenger (Nếu nó không hiển thị trong các trang "
+"WooCommerce, hãy chắc chắn rằng bạn chọn &#39;Hiển thị tất cả các trang, "
+"nhưng ngoại trừ&#39; tùy chọn)"
+
+#: backend/views/fbmessenger-setting-options.php:332
+#: backend/views/fbmessenger-setting-options.php:354
+msgid "Select where you want to display Facebook Messenger"
+msgstr "Chọn nơi bạn muốn hiển thị Facebook Messenger"
+
+#: backend/views/fbmessenger-setting-options.php:336
+msgid "Where you want to display"
+msgstr "Trường hợp bạn muốn hiển thị"
+
+#: backend/views/fbmessenger-setting-options.php:361
+msgid "Save Options"
+msgstr "Lưu cài đặt"
+
+#: index.php:60
+msgid "Docs"
+msgstr "Tài Liệu"
+
+#: index.php:61
+msgid "Wiki CHILI"
+msgstr "Wiki CHILI"
+
+#: index.php:75
+msgid "Settings"
+msgstr "Thiết lập"
+
+#~ msgid "Contact Messenger"
+#~ msgstr "Liên hệ"
+
+#~ msgid "Send message via your Messenger App"
+#~ msgstr "Gửi tin nhắn thông qua Messenger App của bạn"
+
+#~ msgid "..."
+#~ msgstr "..."
