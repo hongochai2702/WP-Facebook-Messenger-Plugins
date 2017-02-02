@@ -4,7 +4,7 @@ Plugin Name: CHILI Facebook Messenger
 Plugin URI: https://chili.vn/appps/facebook-messenger-for-comp/
 Description: Giúp khách hàng có thể dễ dàng liên hệ qua ứng dụng của Facebook.
 Author: CHILI Team
-Version: 1.1
+Version: 1.1.0
 Author URI: https://chili.vn/
 */
 if ( !function_exists( 'add_action' ) ) {
